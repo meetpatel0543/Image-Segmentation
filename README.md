@@ -1,2 +1,2 @@
-The task is to identify minute pores in different terrain layers. The report.pdf includes all detials.
+The task is to identify minute pores in different terrain layers. The readme.pdf includes all detials.
 
